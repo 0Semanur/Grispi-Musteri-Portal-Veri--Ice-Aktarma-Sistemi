@@ -2,9 +2,8 @@
 
 Bu proje, Müşterilerin destek taleplerini yönetebilecekleri ve veri içe aktarma işlemlerini gerçekleştirebilecekleri kapsamlı bir portal uygulamasıdır. React ve Ant Design kullanılarak geliştirilmiştir.
 
-Uploading Grispi Customer Portal - Google Chrome 2025-08-11 15-02-12 (online-video-cutter.com) (1).mp4…
 
-
+![Grispi-Customer-Portal-Google-Chrome-2025-08-11-15-02-12-_online-video-cutter com_-_2_](https://github.com/user-attachments/assets/6d692b54-243a-4177-b091-22288c8457a6)
 ##  Özellikler
 
 ###  Destek Talep Yönetimi
