@@ -25,7 +25,7 @@ Bu proje, Müşterilerin destek taleplerini yönetebilecekleri ve veri içe akta
 - **Güvenli Giriş**: Kimlik doğrulama sistemi
 - **Oturum Yönetimi**: Güvenli oturum açma/kapama
 
-## 🛠 Teknolojiler
+##  Teknolojiler
 
 - **React.js 19.1.0**: Modern kullanıcı arayüzü geliştirme
 - **Ant Design 5.26.6**: Profesyonel UI bileşenleri ve tasarım sistemi
